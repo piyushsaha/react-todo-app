@@ -1,0 +1,15 @@
+.a-todo {
+    position: relative;
+}
+
+.delete {
+    position: absolute;
+    right: 10px;
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    cursor: pointer;
+    background-color: red;
+    border-radius: 10%;
+}
